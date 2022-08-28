@@ -1,8 +1,8 @@
-#include <iostream> // Standard C++ library for console I/O
-#include <cstring> // Standard C++ Library for string manip
+#include <iostream>
+#include <cstring> 
 
-#include <Windows.h> // WinAPI Header
-#include <TlHelp32.h> //WinAPI Process API
+#include <Windows.h> 
+#include <TlHelp32.h> 
 
 
 uint8_t program[] = {
